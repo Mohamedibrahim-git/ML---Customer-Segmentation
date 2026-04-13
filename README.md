@@ -85,7 +85,8 @@ This project demonstrates how machine learning can be used to analyze customer d
 
 📬 Contact
 
-* Add your name here
-* Add your LinkedIn / GitHub profile
+MOHAMED IBRAHIM B
+6383870433
+mohamedibrahimb2004@gmail.com
 
 ---
